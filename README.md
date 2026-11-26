@@ -1,0 +1,1 @@
+# SIC26-SmartFood-Analisis-del-comportamiento-de-consumo-y-tiempos-de-adquisicion-de-alimentos.
