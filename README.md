@@ -66,8 +66,6 @@ ANÁLISIS Y VISUALIZACIÓN DE LA CALIDAD DEL AIRE/
 ├── requirements.txt            # Dependencias del entorno
 ├── .gitignore
 └── README.md
-
-
 ---
 
 ## ✅ Herramientas Implementadas
